@@ -7,12 +7,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="firearm_analysis_project",  # Replace with your project name
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Manuel Martín Ela Ndong",
+    author_email="meland@uoc.edu",
     description="A project to analyze firearm background checks in the United States.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url=" github link",  # Replace with your project URL
+    url=" https://github.com/Paulpott500/firearm_analysis_project",  # Replace with your project URL
     packages=find_packages(),  # Automatically find packages in the current directory
     classifiers=[
         "Programming Language :: Python :: 3",
