@@ -27,7 +27,7 @@ This project aims to analyze firearm background checks in the United States. It 
 
 1. Clone the repository or download the project files:
     ```bash
-    git clone https://github.com/Paulpott500/datascienceprogramming/firearm_analysis_project.git
+    git clone https://github.com/Paulpott500/firearm_analysis_project.git
     cd firearm_analysis_project
     ```
 
