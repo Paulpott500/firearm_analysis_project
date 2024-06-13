@@ -134,9 +134,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, please contact the project maintainer:
 
-- Name: Your Name
-- Email: your.email@example.com
-- GitHub: [yourusername](https://github.com/Paulpott500/datascienceprogramming/firearm_analysis_project)
+- Name: Manuel Martín Ela Ndong
+- Email: meland@uoc.edu
+- GitHub: [Paulpott500](https://github.com/Paulpott500/firearm_analysis_project)
 
 ---
 
